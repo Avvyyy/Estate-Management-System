@@ -12,9 +12,9 @@
 - Open Git Bash
 Type:
 
-```git add .```
-```git commit -m "[A comptehensive commit message]```
-```git push```
+```git add .```  
+```git commit -m "[A comptehensive commit message]```  
+```git push```  
 
 #### Easy to use
 
